@@ -8,3 +8,7 @@ To access the website, users just need a smartphone/laptop, a web browser, and a
 1. PHP
 2. HTML
 3. CSS
+
+![Alt text](relative/path/to/Screenshot_2020-04-10 Read Me (1).png?raw=true "Title")
+
+![Alt text](relative/path/to/Screenshot_2020-04-10 Read Me .png?raw=true "Title")
