@@ -9,6 +9,8 @@ To access the website, users just need a smartphone/laptop, a web browser, and a
 2. HTML
 3. CSS
 
-![Alt text](relative/path/to/Screenshot_2020-04-10 Read Me (1).png?raw=true "Title")
+# Flow Process
+![Alt text](https://github.com/rajat044/Chatbot-and-hospital-management-system-for-COVID-patients./blob/master/Screenshot_2020-04-10%20Read%20Me%20(1).png?raw=true "Title")
 
-![Alt text](relative/path/to/Screenshot_2020-04-10 Read Me .png?raw=true "Title")
+# Data Flow Diagram
+![Alt text](https://github.com/rajat044/Chatbot-and-hospital-management-system-for-COVID-patients./blob/master/Screenshot_2020-04-10%20Read%20Me%20.png?raw=true "Title")
