@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+	color: black;
+}
+body{
+	background-image:url(hos2.jpg);
+	background-size:cover;
+}
+h1{
+	font-size: 2em;
+	text-align: center;
+	margin:0;
+	display:block;
+}
+.sign{
+	border-radius:10px;
+	background-color: pink;
+	padding:20px;
+	width:420px;
+	margin:20px auto;
+	color:#fff;
+	font-size:16px;
+	opacity: 0.8;
+}
+#form{
+	width:100%;
+	background-color:pink;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+.input{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-left: 80px;
+}	
+.button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+	background-color: #0c6996;
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+    margin-left: 80px;
+}
+.a{
+	padding-left:150px;
+	font-weight: 900;
+}

@@ -1,0 +1,42 @@
+body{
+	background-image: url(hos.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form{
+	text-align:center;
+	margin: 40px 400px;
+}
+#feedback{
+	width:100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+.b{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}	
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+	background-color: #0c6996;
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+}
+.para{
+	color:white;
+	font-size: 18px;
+}
+span
+{
+		color:red;
+}
+p
+{
+		color:white;
+}		
