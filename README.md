@@ -5,6 +5,6 @@ Currently, In India and the world, there are not many people who have the right 
 To access the website, users just need a smartphone/laptop, a web browser, and an internet connection. 
 
 # Technologies: 
-PHP
-HTML
-CSS
+1. PHP
+2. HTML
+3. CSS
